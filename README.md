@@ -1,5 +1,5 @@
 # GDD #
-## Nome do Jogo: Mind House##
+## Nome do Jogo: Mind House
 ### 1. Visão Geral ###
 #### 1.1. Resumo ####
 - Gênero: Terror
